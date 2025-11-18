@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Braum;Stefan;;;
+FN:Stefan Braum
+ORG:Braum Consulting
+ADR;TYPE=WORK:
+TITLE:
+TEL;TYPE=CELL:+491626928318
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:stefan@braum.consulting
+URL;TYPE=Digital Business Card:card.braum.consulting
+URL:
+URL;TYPE=WhatsApp:https://wa.me/496664919099
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Wir gestalten Ihre digitale Zukunft mit Websites, Digitalisierung & IT-Beratung im Kreis Fulda und MKK.
+UID:EnBizCard-100663743
+END:VCARD
